@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thanuprakashgowda
-- 👀 I’m interested in cyber security 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning Information Science and Engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me thanuprakashgowda13@gmail.com
