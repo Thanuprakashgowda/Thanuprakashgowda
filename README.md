@@ -71,47 +71,6 @@ An AI/ML-based agricultural system designed to support data-driven crop and soil
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
-**Repository:** Add Repository Link
-
----
-
-### AI Fruit and Vegetable Maturity Detector
-
-A Computer Vision and Machine Learning feature designed to identify the maturity or ripeness stage of fruits and vegetables from images.
-
-**Key Areas**
-
-* Image preprocessing
-* Computer Vision
-* Image classification
-* Dataset preparation
-* Machine learning and deep learning
-* AI-based maturity detection
-
-**Technologies**
-
-`Python` `Computer Vision` `OpenCV` `Machine Learning` `Deep Learning`
-
-**Repository:** Add Repository Link
-
----
-
-### Generative AI and LLM Applications
-
-Exploring intelligent applications powered by Large Language Models and Generative AI.
-
-**Areas**
-
-* Prompt Engineering
-* LLM applications
-* Retrieval-Augmented Generation
-* AI-powered automation
-* Structured AI outputs
-* API-based AI applications
-* AI-assisted development
-
-**Repository:** Add Repository Link
-
 ---
 
 ## AI Development Approach
@@ -179,28 +138,6 @@ Production AI Applications
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
