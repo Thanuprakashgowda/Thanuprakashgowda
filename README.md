@@ -1,37 +1,39 @@
 # Hi, I'm Thanuprakash Gowda
 
-### AI/ML Developer | Generative AI Enthusiast | Research & R&D | Software Developer
+### AI/ML Enthusiast | AI-Assisted Developer | Research & R&D Learner
 
-I’m an Artificial Intelligence and Machine Learning enthusiast interested in building practical, intelligent, and data-driven applications while exploring research-driven approaches to real-world problems.
+I’m an Information Science & Engineering student interested in Artificial Intelligence, Machine Learning, Generative AI, and Research & Development.
 
-I enjoy working across Machine Learning, Computer Vision, Generative AI, LLM applications, Data Science, and Software Development. I’m particularly interested in **research, experimentation, technical analysis, AI evaluation, and transforming research ideas into useful AI-powered solutions**.
+I enjoy understanding real-world problems, exploring technical solutions, experimenting with AI/ML concepts, and building working prototypes with the help of modern AI-assisted development tools.
+
+I use AI tools as part of my development workflow for **coding assistance, debugging, exploring approaches, understanding unfamiliar concepts, and improving productivity**. I believe AI-assisted development is most useful when combined with understanding, testing, verification, and continuous learning.
 
 ---
 
 ## About Me
 
-* Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Research & Development
-* Interested in AI/ML, Generative AI, LLMs, RAG, Computer Vision, and AI Engineering
-* Interested in **research methodology, literature review, technical document analysis, experimentation, and research documentation**
-* Building AI solutions for agriculture and other real-world applications
-* Interested in Prompt Engineering and AI-assisted software development
-* Experienced with Python, SQL, Machine Learning, Data Processing, and APIs
-* Interested in developing, testing, evaluating, and improving AI systems
-* Enjoy analysing technical problems, exploring different approaches, and documenting findings
-* Continuously learning modern AI Engineering, Research, and Software Development
+* Information Science & Engineering student interested in AI/ML and Research & Development
+* Exploring Machine Learning, Generative AI, LLMs, RAG, Computer Vision, and Software Development
+* Interested in research-oriented problem solving and technical experimentation
+* Building academic and personal projects using AI-assisted development
+* Comfortable working with Python, SQL, APIs, data processing, and machine learning tools
+* Interested in understanding how AI systems work and how they can be applied to real-world problems
+* Use AI tools to assist with coding, debugging, research, documentation, and learning
+* Focused on reviewing, testing, and understanding AI-assisted outputs rather than blindly using generated code
+* Continuously improving my technical and analytical skills through projects and experimentation
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### AI and Machine Learning
+### AI / Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
@@ -56,50 +58,51 @@ I enjoy working across Machine Learning, Computer Vision, Generative AI, LLM app
 
 ## Research & R&D Interests
 
-I’m interested in research-driven technology development, particularly where **AI/ML, data analysis, experimentation, and software engineering** intersect.
+I’m interested in the **practical side of research and technology development**.
 
-### Research Areas
+Rather than claiming to be an advanced researcher, I’m currently developing my research skills through academic projects, technical exploration, experimentation, and reading about AI/ML approaches.
+
+### Areas I'm Exploring
 
 * Artificial Intelligence & Machine Learning
-* Generative AI & Large Language Models
+* Generative AI
+* Large Language Models
 * Retrieval-Augmented Generation
 * Computer Vision
-* Data Science & Data Analysis
-* AI Evaluation & Validation
+* Data Analysis
+* AI Evaluation
+* AI-assisted Software Development
 * AI for Agriculture
 * Intelligent Automation
-* AI Engineering
-* Applied Machine Learning
 
-### Research Activities
+### Research & Learning Activities
 
-* Literature review and technical research
-* Research problem identification
-* Technical document analysis
-* Dataset analysis and preprocessing
-* Machine learning experimentation
-* Model comparison and evaluation
-* Data validation and anomaly analysis
-* Research documentation and technical reporting
-* Analysis and interpretation of experimental results
+* Reading and understanding technical articles and research papers
+* Exploring different approaches to technical problems
+* Analysing datasets and experimental results
+* Comparing machine learning approaches
+* Testing and validating AI-generated outputs
+* Documenting project methodologies and findings
+* Learning from existing implementations and adapting them to project requirements
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### Smart Crop — AI-Based Agriculture System
 
-An AI/ML-based agricultural system designed to support data-driven crop and soil-related decision making.
+An academic AI/ML project exploring how soil and agricultural data can be used to support data-driven crop-related decision making.
 
-**Key Areas**
+### What I Worked On
 
-* Soil and agricultural data preprocessing
-* Feature engineering
-* Machine learning classification
-* Model evaluation
-* Crop-related recommendations
-* Data-driven agricultural analysis
-* Research-oriented experimentation
+* Understanding the problem and project requirements
+* Exploring and preprocessing agricultural datasets
+* Performing basic exploratory data analysis
+* Experimenting with machine learning approaches
+* Comparing model outputs using evaluation metrics
+* Working with Python and machine learning libraries
+* Documenting the methodology and findings
+* Using AI-assisted development tools during implementation and debugging
 
 **Technologies**
 
@@ -107,52 +110,80 @@ An AI/ML-based agricultural system designed to support data-driven crop and soil
 
 ---
 
-## AI Development & Research Approach
+## How I Use AI for Development
 
-I approach AI development and research through a structured process:
+AI is part of my development workflow.
+
+I use AI tools to assist with:
 
 ```text
-Problem Identification
-        |
-Literature & Technical Research
-        |
-Data and Requirement Analysis
-        |
-Approach / Model Selection
-        |
-Implementation
-        |
-Testing & Verification
-        |
-Evaluation & Comparison
-        |
-Analysis of Results
-        |
+Understanding Requirements
+        ↓
+Exploring Possible Approaches
+        ↓
+AI-Assisted Coding
+        ↓
+Understanding the Generated Code
+        ↓
+Testing & Debugging
+        ↓
+Verification
+        ↓
+Improvement
+        ↓
 Documentation
-        |
-Optimization
 ```
 
-I believe effective AI development requires more than simply building a model. A good solution should be **understandable, testable, reliable, well-documented, and useful in a real-world environment**.
+I don't consider generated code to be automatically correct. I try to understand what the code is doing, test it, identify errors, and modify it according to the actual project requirements.
+
+My goal is to become better at **using AI as a development assistant while continuously improving my own technical understanding**.
 
 ---
 
 ## GitHub Contributions
 
-I use GitHub as a platform to **build, experiment, document, and share technical work**.
+I use GitHub to maintain and share my learning, experiments, and projects.
 
-My contributions include:
+My contributions mainly include:
 
-* Developing and maintaining AI/ML and software projects
-* Experimenting with machine learning approaches and AI technologies
-* Implementing data preprocessing and analysis workflows
-* Exploring Generative AI, LLM, and RAG concepts
-* Maintaining project source code and documentation
-* Using Git for version control and iterative development
-* Sharing project implementations and technical experiments
-* Continuously improving existing projects through experimentation and learning
+* Academic and personal software projects
+* AI/ML experiments
+* Data processing and analysis work
+* AI-assisted development experiments
+* API and backend implementations
+* Project documentation
+* Code improvements and debugging
+* Exploring new technologies through small prototypes
 
-I aim to make my repositories useful not only as codebases, but also as a record of my **learning, experimentation, research, and technical growth**.
+Some projects are developed with significant assistance from AI tools. I see these projects as part of my learning process and focus on understanding, testing, and improving the resulting implementation.
+
+---
+
+## My Development Approach
+
+I generally follow this process:
+
+```text
+Understand the Problem
+        ↓
+Research / Explore
+        ↓
+Plan the Approach
+        ↓
+Use AI Assistance Where Helpful
+        ↓
+Implement
+        ↓
+Test
+        ↓
+Debug
+        ↓
+Understand & Improve
+        ↓
+Document
+```
+
+I’m still learning, and that is an important part of my journey. I prefer to be transparent about what I know, what I am learning, and how I use modern AI tools to improve my development process.
 
 ---
 
@@ -160,22 +191,20 @@ I aim to make my repositories useful not only as codebases, but also as a record
 
 ```text
 Machine Learning
-       |
+       ↓
 Deep Learning
-       |
+       ↓
 Computer Vision
-       |
+       ↓
 Generative AI
-       |
+       ↓
 Large Language Models
-       |
-Retrieval-Augmented Generation
-       |
-AI Research
-       |
+       ↓
+RAG
+       ↓
 AI Engineering
-       |
-Production AI Applications
+       ↓
+Research & Technical Analysis
 ```
 
 ---
@@ -190,8 +219,8 @@ Production AI Applications
 * Retrieval-Augmented Generation
 * Computer Vision
 * Data Science
-* AI Engineering
-* Intelligent Automation
+* AI-assisted Development
+* AI Evaluation
 * AI for Agriculture
 * Backend & API Development
 * Software Engineering
@@ -213,12 +242,14 @@ Production AI Applications
 
 ## Career Interests
 
-I’m interested in opportunities where I can contribute to **AI/ML, Research & Development, Generative AI, Computer Vision, Data Science, and Software Engineering**, while continuously developing my ability to research, experiment, analyse, document, and build practical technology solutions.
+I’m looking for opportunities where I can learn and contribute in **AI/ML, Research & Development, AI-assisted Software Development, Generative AI, Data Science, and Software Engineering**.
+
+I’m particularly interested in environments where I can **learn from experienced teams, work on real problems, experiment with new technologies, and gradually take greater ownership of technical work**.
 
 ---
 
 <p align="center">
 
-**Research • Build • Experiment • Learn • Improve**
+**Learn • Build • Experiment • Verify • Improve**
 
 </p>
